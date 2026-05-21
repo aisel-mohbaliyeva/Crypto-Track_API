@@ -60,7 +60,7 @@ CryptoTrack/
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/aisel-mohbaliyeva/CryptoTrack.git
+   git clone https://github.com/aisel-mohbaliyeva/CryptoTrack_API.git
    ```
 2. Open `CryptoTrack.xcodeproj` in Xcode 15+
 3. Select a simulator or device (iOS 17+)
